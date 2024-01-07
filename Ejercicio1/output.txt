@@ -1,0 +1,8 @@
+total 24
+drwxrwxr-x 5 batoi batoi 4096 ene  7 18:10 .
+drwxrwxr-x 3 batoi batoi 4096 ene  7 17:20 ..
+-rw-rw-r-- 1 batoi batoi    0 ene  7 18:10 error.txt
+drwxrwxr-x 2 batoi batoi 4096 ene  7 18:05 .idea
+-rw-rw-r-- 1 batoi batoi  576 ene  7 17:20 pom.xml
+drwxrwxr-x 4 batoi batoi 4096 ene  7 17:20 src
+drwxrwxr-x 4 batoi batoi 4096 ene  7 17:33 target
